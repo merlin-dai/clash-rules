@@ -1,7 +1,4 @@
 payload:
-# Apple IP 段
-  - IP-CIDR,17.0.0.0/8
-
 # Apple 顶级域名（只保留最核心后缀）
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,icloud.com
@@ -17,3 +14,6 @@ payload:
   - DOMAIN-SUFFIX,apple.comedge.net
   - DOMAIN-SUFFIX,swcdn.apple.com
   - DOMAIN-SUFFIX,cdn-apple.com
+
+# Apple IP 段
+  - IP-CIDR,17.0.0.0/8
