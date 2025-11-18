@@ -10,3 +10,6 @@ payload:
 
 # byd
   - DOMAIN-SUFFIX,byd.auto
+
+# GEOIP
+  - GEOIP,CN
