@@ -3,6 +3,12 @@ payload:
   - DOMAIN-SUFFIX,qq.com
 
 # ali
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,ucweb.com
+  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN-SUFFIX,amap.com
+  - DOMAIN-SUFFIX,uc.cn
+  - DOMAIN-SUFFIX,alicdn.com
 
 # bilibili
   - DOMAIN-SUFFIX,bilibili.com
