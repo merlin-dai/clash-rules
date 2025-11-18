@@ -11,6 +11,9 @@ payload:
 # byd
   - DOMAIN-SUFFIX,byd.auto
 
+# other
+  - DOMAIN-SUFIXX,pconline.com
+
 # CN
   - DOMAIN-SUFFIX,.cn
 
