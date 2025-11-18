@@ -11,5 +11,8 @@ payload:
 # byd
   - DOMAIN-SUFFIX,byd.auto
 
+# CN
+  - DOMAIN-SUFFIX,.cn
+
 # GEOIP
   - GEOIP,CN
