@@ -1,1 +1,23 @@
-
+payload:
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,winupdate.com
+  - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,microsoft.com.edgesuite.net
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msauthimages.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,microsoftonline-p.com
