@@ -62,3 +62,9 @@ payload:
   - DOMAIN-SUFFIX,learn.microsoft.com
   - DOMAIN-SUFFIX,support.microsoft.com
   - DOMAIN-SUFFIX,technet.microsoft.com
+
+# 其他
+  - DOMAIN-SUFFIX,microsoftpersonalcontent.com
+
+# 兜底
+  - DOMAIN-KEYWORD,microsoftpersonalcontent.com
