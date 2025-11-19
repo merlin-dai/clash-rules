@@ -117,6 +117,10 @@ payload:
   - DOMAIN-SUFFIX,xiaohongshu.com
   - DOMAIN-SUFFIX,redcdn.com
 
+# 比亚迪 (BYD)
+  - DOMAIN-SUFFIX,byd.auto
+  - DOMAIN-SUFFIX,byd.com
+
 # CN
   - DOMAIN-SUFFIX,.cn
 
