@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,clarity.ms
 
 # CDN 与分发
   - DOMAIN-SUFFIX,akamaiedge.net
