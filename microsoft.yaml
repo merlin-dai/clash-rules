@@ -1,38 +1,64 @@
 payload:
-# 基础微软服务
+# Microsoft 基础服务
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,msft.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,bing.com
+
+# Microsoft 365 / Office
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,teams.microsoft.com
-  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,cdn.office.net
+  - DOMAIN-SUFFIX,msocdn.com
 
-# 身份与认证
+# 身份与认证 (Azure AD)
   - DOMAIN-SUFFIX,login.microsoftonline.com
   - DOMAIN-SUFFIX,aadcdn.microsoftonline-p.com
   - DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-SUFFIX,sts.windows.net
+  - DOMAIN-SUFFIX,entra.microsoft.com
 
 # Windows 更新与系统
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,wns.windows.com
+  - DOMAIN-SUFFIX,crl.microsoft.com
 
 # Azure 云服务
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,visualstudio.com
-
-# 存储与 CDN
+  - DOMAIN-SUFFIX,dev.azure.com
+  - DOMAIN-SUFFIX,cloudapp.azure.com
   - DOMAIN-SUFFIX,blob.core.windows.net
-  - DOMAIN-SUFFIX,cdn.office.net
-  - DOMAIN-SUFFIX,msocdn.com
-  - DOMAIN-SUFFIX,akamaiedge.net
+
+# Teams / Skype / 通讯
+  - DOMAIN-SUFFIX,teams.microsoft.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,lync.com
+  - DOMAIN-SUFFIX,comm.microsoft.com
 
 # 消费者服务
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,gamepass.com
+
+# CDN 与分发
+  - DOMAIN-SUFFIX,akamaiedge.net
+  - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,assets.microsoft.com
+
+# 开发与支持
+  - DOMAIN-SUFFIX,docs.microsoft.com
+  - DOMAIN-SUFFIX,learn.microsoft.com
+  - DOMAIN-SUFFIX,support.microsoft.com
+  - DOMAIN-SUFFIX,technet.microsoft.com
