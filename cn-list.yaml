@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,v.qq.com
   - DOMAIN-SUFFIX,qqmusic.qq.com
   - DOMAIN-SUFFIX,qqmail.com
+  - DOMAIN-SUFFIX,tencent-cloud.net
 
 # 阿里巴巴 (Alibaba)
   - DOMAIN-SUFFIX,alibaba.com
