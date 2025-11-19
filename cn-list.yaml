@@ -1,28 +1,119 @@
 payload:
-# tensent
-  - DOMAIN-SUFFIX,qq.com
+# 百度 (Baidu)
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,bdstatic.com
+  - DOMAIN-SUFFIX,baidustatic.com
+  - DOMAIN-SUFFIX,hao123.com
+  - DOMAIN-SUFFIX,pan.baidu.com
+  - DOMAIN-SUFFIX,tieba.baidu.com
+  - DOMAIN-SUFFIX,baidupcs.com
+  - DOMAIN-SUFFIX,baiduvideo.com
 
-# ali
-  - DOMAIN-SUFFIX,taobao.com
-  - DOMAIN-SUFFIX,ucweb.com
-  - DOMAIN-SUFFIX,alipay.com
+# 高德地图 (Amap)
   - DOMAIN-SUFFIX,amap.com
-  - DOMAIN-SUFFIX,uc.cn
+  - DOMAIN-SUFFIX,autonavi.com
+  - DOMAIN-SUFFIX,gaode.com
+
+# 爱奇艺 (iQIYI)
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,qiyi.com
+  - DOMAIN-SUFFIX,pps.tv
+  - DOMAIN-SUFFIX,iqiyipic.com
+
+# 优酷 / 土豆 (Youku / Tudou)
+  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,ykimg.com
+  - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,tudou.com
+
+# 腾讯 (Tencent)
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,weixin.qq.com
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,gtimg.cn
+  - DOMAIN-SUFFIX,tenpay.com
+  - DOMAIN-SUFFIX,v.qq.com
+  - DOMAIN-SUFFIX,qqmusic.qq.com
+  - DOMAIN-SUFFIX,qqmail.com
+
+# 阿里巴巴 (Alibaba)
+  - DOMAIN-SUFFIX,alibaba.com
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,1688.com
   - DOMAIN-SUFFIX,alicdn.com
 
-# bilibili
+# 京东 (JD.com)
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,jdcdn.com
+  - DOMAIN-SUFFIX,360buy.com
+  - DOMAIN-SUFFIX,jdcloud.com
+  - DOMAIN-SUFFIX,jd.hk
+
+# 哔哩哔哩 (Bilibili)
   - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,biliapi.net
-  - DOMAIN-SUFFIX,biliapi.com
-  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,biligame.com
 
-# iqiyi
+# 美团 / 大众点评 (Meituan / Dianping)
+  - DOMAIN-SUFFIX,meituan.com
+  - DOMAIN-SUFFIX,dianping.com
+  - DOMAIN-SUFFIX,maoyan.com
+  - DOMAIN-SUFFIX,ele.me
 
-# byd
-  - DOMAIN-SUFFIX,byd.auto
+# 拼多多 (Pinduoduo)
+  - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,yangkeduo.com
+  - DOMAIN-SUFFIX,pddpic.com
 
-# other
-  - DOMAIN-SUFIXX,pconline.com
+# 快手 (Kuaishou)
+  - DOMAIN-SUFFIX,kuaishou.com
+  - DOMAIN-SUFFIX,kuaishouapp.com
+  - DOMAIN-SUFFIX,ksapisrv.com
+
+# 抖音 / 今日头条 (ByteDance)
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,ixigua.com
+  - DOMAIN-SUFFIX,toutiao.com
+  - DOMAIN-SUFFIX,bytedance.com
+
+# 新浪 / 微博 (Sina / Weibo)
+  - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,sina.com.cn
+  - DOMAIN-SUFFIX,sinaimg.cn
+
+# 知乎 (Zhihu)
+  - DOMAIN-SUFFIX,zhihu.com
+  - DOMAIN-SUFFIX,zhimg.com
+
+# 网易 (NetEase)
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,126.com
+  - DOMAIN-SUFFIX,yeah.net
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,lofter.com
+  - DOMAIN-SUFFIX,icourse163.org
+
+# 搜狐 (Sohu)
+  - DOMAIN-SUFFIX,sohu.com
+  - DOMAIN-SUFFIX,17173.com
+  - DOMAIN-SUFFIX,focus.cn
+
+# 视频平台补充
+  - DOMAIN-SUFFIX,mgtv.com
+  - DOMAIN-SUFFIX,huya.com
+  - DOMAIN-SUFFIX,douyu.com
+  - DOMAIN-SUFFIX,letv.com
+
+# 小红书 (Xiaohongshu)
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,redcdn.com
 
 # CN
   - DOMAIN-SUFFIX,.cn
