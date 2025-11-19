@@ -1,19 +1,66 @@
 payload:
-# Apple 顶级域名（只保留最核心后缀）
+# Apple 基础服务
   - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,store.apple.com
+  - DOMAIN-SUFFIX,developer.apple.com
+  - DOMAIN-SUFFIX,support.apple.com
+
+# 身份与认证
+  - DOMAIN-SUFFIX,appleid.apple.com
+  - DOMAIN-SUFFIX,configuration.apple.com
+  - DOMAIN-SUFFIX,identity.apple.com
+
+# iCloud 服务
   - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.apple.com
   - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-static.com
+
+# App Store / iTunes / 媒体
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN-SUFFIX,tv.apple.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
   - DOMAIN-SUFFIX,mzstatic.com
+
+# 系统更新与安全
+  - DOMAIN-SUFFIX,mesu.apple.com
+  - DOMAIN-SUFFIX,swcdn.apple.com
+  - DOMAIN-SUFFIX,updates.cdn-apple.com
+
+# 推送通知 (APNs)
+  - DOMAIN-SUFFIX,push.apple.com
+  - DOMAIN-SUFFIX,albert.apple.com
+  - DOMAIN-SUFFIX,gs.apple.com
+  - DOMAIN-SUFFIX,humb.apple.com
+  - DOMAIN-SUFFIX,sq-device.apple.com
+  - DOMAIN-SUFFIX,tbsc.apple.com
+
+# 设备注册与管理
+  - DOMAIN-SUFFIX,deviceenrollment.apple.com
+  - DOMAIN-SUFFIX,deviceservices-external.apple.com
+  - DOMAIN-SUFFIX,gdmf.apple.com
+
+# CDN 与分发
+  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,akadns.net
-  - DOMAIN-SUFFIX,edgesuite.net
-  - DOMAIN-SUFFIX,edgekey.net
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-dns.net
-  - DOMAIN-SUFFIX,apple-mapkit.com
-  - DOMAIN-SUFFIX,appleswift.com
-  - DOMAIN-SUFFIX,apple.comedge.net
-  - DOMAIN-SUFFIX,swcdn.apple.com
-  - DOMAIN-SUFFIX,cdn-apple.com
 
-# Apple IP 段
-  - IP-CIDR,17.0.0.0/8
+# FaceTime
+  - DOMAIN-SUFFIX,facetime.apple.com
+  - DOMAIN-SUFFIX,facetime.apple-dns.net
+
+# Siri
+  - DOMAIN-SUFFIX,siri.apple.com
+  - DOMAIN-SUFFIX,siri.apple-dns.net
+  - DOMAIN-SUFFIX,guzzoni.apple.com
+
+# Apple Maps
+  - DOMAIN-SUFFIX,maps.apple.com
+  - DOMAIN-SUFFIX,maps.apple-dns.net
+  - DOMAIN-SUFFIX,ls.apple.com
+
+# 其他常见服务
+  - DOMAIN-SUFFIX,static.ips.apple.com
+  - DOMAIN-SUFFIX,cvws.apple.com
