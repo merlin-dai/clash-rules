@@ -1,1 +1,102 @@
 payload:
+  # Google 相关
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googledrive.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,blogspot.com
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,appspot.com
+
+  # YouTube 相关
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtubeeducation.com
+  - DOMAIN-SUFFIX,youtubei.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,ytimg.com
+
+  # GitHub 相关
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,gist.github.com
+  - DOMAIN-SUFFIX,assets.github.com
+  - DOMAIN-SUFFIX,camo.githubusercontent.com
+
+  # Netflix 相关
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-SUFFIX,netflixcdn.com
+  - DOMAIN-SUFFIX,netflixstatic.com
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,netflixcdn.net
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,netflix.io
+  - DOMAIN-SUFFIX,netflixpreroll.com
+
+  # Disney 相关
+  - DOMAIN-SUFFIX,disney.com
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneyplus.net
+  - DOMAIN-SUFFIX,disneyplus.com.au
+  - DOMAIN-SUFFIX,disneyplus.co.uk
+  - DOMAIN-SUFFIX,disneyplus.com.br
+  - DOMAIN-SUFFIX,disneyplus.in
+  - DOMAIN-SUFFIX,disney.com.au
+
+  # Facebook 相关
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,fb.com
+
+  # Twitter 相关
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,platform.twitter.com
+
+  # Instagram 相关
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,instagram.net
+  - DOMAIN-SUFFIX,fbcdn.net
+
+  # Dropbox 相关
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,dropboxusercontent.com
+
+  # Cloudflare 相关
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.net
+
+  # Spotify 相关
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,spotifyusercontent.com
+
+  # LinkedIn 相关
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,licdn.com
+
+  # Reddit 相关
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,redditmedia.com
+
+  # Wikipedia 相关
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,mediawiki.org
+  - DOMAIN-SUFFIX,wikimedia.org
+
+  # Other major CDN & Cloud providers
+  - DOMAIN-SUFFIX,akamai.net
+  - DOMAIN-SUFFIX,cdn.com
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,fastly.net
+  - DOMAIN-SUFFIX,edgesuite.net
