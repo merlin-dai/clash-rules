@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,msft.com
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,msn.cn
   - DOMAIN-SUFFIX,bing.com
 
 # Microsoft 365 / Office
