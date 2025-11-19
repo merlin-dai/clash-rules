@@ -64,3 +64,6 @@ payload:
 # 其他常见服务
   - DOMAIN-SUFFIX,static.ips.apple.com
   - DOMAIN-SUFFIX,cvws.apple.com
+
+# Apple IP段规则
+  IP-CIDR,17.0.0.0/8
