@@ -1,0 +1,39 @@
+payload:
+  # Amazon 相关域名
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,amazonappstream.com
+  - DOMAIN-SUFFIX,amazonworkdocs.com
+  - DOMAIN-SUFFIX,amazonchime.com
+  - DOMAIN-SUFFIX,amazoncognito.com
+  - DOMAIN-SUFFIX,workspaces-web.com
+  - DOMAIN-SUFFIX,amazonses.com
+  - DOMAIN-SUFFIX,amazonses.net
+  - DOMAIN-SUFFIX,amazonelasticmapreduce.com
+  - DOMAIN-SUFFIX,awsstatic.com
+  - DOMAIN-SUFFIX,amazonpay.com
+  - DOMAIN-SUFFIX,amazonprimevideo.com
+  - DOMAIN-SUFFIX,primevideo.com
+  - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-KEYWORD,amazon
+
+  # Amazon 核心 IP 段
+  - IP-CIDR,3.0.0.0/10
+  - IP-CIDR,3.64.0.0/10
+  - IP-CIDR,3.128.0.0/10
+  - IP-CIDR,3.192.0.0/10
+  - IP-CIDR,18.144.0.0/13
+  - IP-CIDR,18.152.0.0/14
+  - IP-CIDR,18.160.0.0/13
+  - IP-CIDR,34.192.0.0/10
+  - IP-CIDR,35.160.0.0/11
+  - IP-CIDR,35.192.0.0/10
+  - IP-CIDR,52.0.0.0/11
+  - IP-CIDR,52.96.0.0/13
+  - IP-CIDR,52.112.0.0/14
+  - IP-CIDR,52.176.0.0/12
+  - IP-CIDR,54.240.0.0/12
+  - IP-CIDR,54.248.0.0/13
+  - IP-CIDR,54.252.0.0/14
+  - IP-CIDR,54.254.0.0/15
