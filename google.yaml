@@ -10,6 +10,14 @@ payload:
   - DOMAIN-SUFFIX,blogspot.com
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,appspot.com
+
+  # YouTube 相关
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtubeeducation.com
+  - DOMAIN-SUFFIX,youtubei.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,ytimg.com
   
   # Google 核心 IP 段
   - IP-CIDR,8.8.8.0/24
