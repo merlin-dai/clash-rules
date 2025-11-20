@@ -1,16 +1,4 @@
 payload:
-  # Google 相关
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,googleusercontent.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,googledrive.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,blogspot.com
-  - DOMAIN-SUFFIX,android.com
-  - DOMAIN-SUFFIX,appspot.com
-
   # ChatGPT 相关
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
