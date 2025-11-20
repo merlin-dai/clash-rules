@@ -1,5 +1,5 @@
 payload:
-# Microsoft 基础服务
+  # Microsoft 基础服务
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,msft.com
   - DOMAIN-SUFFIX,windows.com
@@ -7,7 +7,7 @@ payload:
   - DOMAIN-SUFFIX,msn.cn
   - DOMAIN-SUFFIX,bing.com
 
-# Microsoft 365 / Office
+  # Microsoft 365 / Office
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,sharepoint.com
@@ -17,21 +17,21 @@ payload:
   - DOMAIN-SUFFIX,msocdn.com
   - DOMAIN-SUFFIX,sfx.ms
 
-# 身份与认证 (Azure AD)
+  # 身份与认证 (Azure AD)
   - DOMAIN-SUFFIX,login.microsoftonline.com
   - DOMAIN-SUFFIX,aadcdn.microsoftonline-p.com
   - DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-SUFFIX,sts.windows.net
   - DOMAIN-SUFFIX,entra.microsoft.com
 
-# Windows 更新与系统
+  # Windows 更新与系统
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,wns.windows.com
   - DOMAIN-SUFFIX,crl.microsoft.com
 
-# Azure 云服务
+  # Azure 云服务
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,azurefd.net
@@ -40,13 +40,13 @@ payload:
   - DOMAIN-SUFFIX,cloudapp.azure.com
   - DOMAIN-SUFFIX,blob.core.windows.net
 
-# Teams / Skype / 通讯
+  # Teams / Skype / 通讯
   - DOMAIN-SUFFIX,teams.microsoft.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,lync.com
   - DOMAIN-SUFFIX,comm.microsoft.com
 
-# 消费者服务
+  # 消费者服务
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,xbox.com
@@ -54,20 +54,46 @@ payload:
   - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,clarity.ms
 
-# CDN 与分发
+  # CDN 与分发
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,assets.microsoft.com
 
-# 开发与支持
+  # 开发与支持
   - DOMAIN-SUFFIX,docs.microsoft.com
   - DOMAIN-SUFFIX,learn.microsoft.com
   - DOMAIN-SUFFIX,support.microsoft.com
   - DOMAIN-SUFFIX,technet.microsoft.com
 
-# 其他
+  # 其他
   - DOMAIN-SUFFIX,microsoftpersonalcontent.com
 
-# 兜底
-  - DOMAIN-KEYWORD,microsoftpersonalcontent.com
+  # 兜底
+  - DOMAIN-KEYWORD,microsoft
+
+  # Microsoft 核心 IP 段
+  - IP-CIDR,13.64.0.0/11
+  - IP-CIDR,13.96.0.0/13
+  - IP-CIDR,13.104.0.0/14
+  - IP-CIDR,13.108.0.0/15
+  - IP-CIDR,20.36.0.0/14
+  - IP-CIDR,20.40.0.0/13
+  - IP-CIDR,20.84.0.0/14
+  - IP-CIDR,20.190.0.0/16
+  - IP-CIDR,40.64.0.0/10
+  - IP-CIDR,40.80.0.0/12
+  - IP-CIDR,40.112.0.0/13
+  - IP-CIDR,40.120.0.0/14
+  - IP-CIDR,40.124.0.0/16
+  - IP-CIDR,52.96.0.0/12
+  - IP-CIDR,52.112.0.0/14
+  - IP-CIDR,52.120.0.0/14
+  - IP-CIDR,52.128.0.0/17
+  - IP-CIDR,104.40.0.0/13
+  - IP-CIDR,104.208.0.0/13
+  - IP-CIDR,157.56.0.0/14
+  - IP-CIDR,157.56.64.0/18
+  - IP-CIDR,191.232.0.0/14
+  - IP-CIDR,207.46.0.0/16
+  - IP-CIDR,207.68.128.0/17
