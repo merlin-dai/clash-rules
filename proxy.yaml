@@ -7,14 +7,6 @@ payload:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,auth0.com
 
-  # YouTube 相关
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,youtubeeducation.com
-  - DOMAIN-SUFFIX,youtubei.com
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,ytimg.com
-
   # GitHub 相关
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
