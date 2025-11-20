@@ -11,6 +11,14 @@ payload:
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,appspot.com
 
+  # ChatGPT 相关
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,auth0.com
+
   # YouTube 相关
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,youtube-nocookie.com
