@@ -122,6 +122,9 @@ payload:
   - DOMAIN-SUFFIX,byd.auto
   - DOMAIN-SUFFIX,byd.com
 
+# Foconn
+  - DOMAIN-SUFFIX,foxconn.com
+
 # CN
   - DOMAIN-SUFFIX,.cn
 
