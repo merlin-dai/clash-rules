@@ -127,6 +127,3 @@ payload:
 
 # CN
   - DOMAIN-SUFFIX,.cn
-
-# GEOIP
-  - GEOIP,CN
