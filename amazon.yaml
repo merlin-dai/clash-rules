@@ -19,21 +19,21 @@ payload:
   - DOMAIN-KEYWORD,amazon
 
   # Amazon 核心 IP 段
-  - IP-CIDR,3.0.0.0/10
-  - IP-CIDR,3.64.0.0/10
-  - IP-CIDR,3.128.0.0/10
-  - IP-CIDR,3.192.0.0/10
-  - IP-CIDR,18.144.0.0/13
-  - IP-CIDR,18.152.0.0/14
-  - IP-CIDR,18.160.0.0/13
-  - IP-CIDR,34.192.0.0/10
-  - IP-CIDR,35.160.0.0/11
-  - IP-CIDR,35.192.0.0/10
-  - IP-CIDR,52.0.0.0/11
-  - IP-CIDR,52.96.0.0/13
-  - IP-CIDR,52.112.0.0/14
-  - IP-CIDR,52.176.0.0/12
-  - IP-CIDR,54.240.0.0/12
-  - IP-CIDR,54.248.0.0/13
-  - IP-CIDR,54.252.0.0/14
-  - IP-CIDR,54.254.0.0/15
+  - IP-CIDR,3.0.0.0/10,no-resolve
+  - IP-CIDR,3.64.0.0/10,no-resolve
+  - IP-CIDR,3.128.0.0/10,no-resolve
+  - IP-CIDR,3.192.0.0/10,no-resolve
+  - IP-CIDR,18.144.0.0/13,no-resolve
+  - IP-CIDR,18.152.0.0/14,no-resolve
+  - IP-CIDR,18.160.0.0/13,no-resolve
+  - IP-CIDR,34.192.0.0/10,no-resolve
+  - IP-CIDR,35.160.0.0/11,no-resolve
+  - IP-CIDR,35.192.0.0/10,no-resolve
+  - IP-CIDR,52.0.0.0/11,no-resolve
+  - IP-CIDR,52.96.0.0/13,no-resolve
+  - IP-CIDR,52.112.0.0/14,no-resolve
+  - IP-CIDR,52.176.0.0/12,no-resolve
+  - IP-CIDR,54.240.0.0/12,no-resolve
+  - IP-CIDR,54.248.0.0/13,no-resolve
+  - IP-CIDR,54.252.0.0/14,no-resolve
+  - IP-CIDR,54.254.0.0/15,no-resolve
