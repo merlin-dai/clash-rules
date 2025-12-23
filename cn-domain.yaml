@@ -131,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,msftauth.net
   - DOMAIN-SUFFIX,msftauthimages.net
   - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,gstatic.com
 
 # CN
   - DOMAIN-SUFFIX,.cn
