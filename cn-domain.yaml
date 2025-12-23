@@ -124,6 +124,9 @@ payload:
 
 # Foconn
   - DOMAIN-SUFFIX,foxconn.com
+  - DOMAIN-SUFFIX.akamai.com
+  - DOMAIN-SUFFIX,akamai-access.com
+  - DOMAIN-SUFFIX,akamai-zt.com
 
 # CN
   - DOMAIN-SUFFIX,.cn
