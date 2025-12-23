@@ -128,6 +128,9 @@ payload:
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,akamai-access.com
   - DOMAIN-SUFFIX,akamai-zt.com
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
+  - DOMAIN-SUFFIX,office.net
 
 # CN
   - DOMAIN-SUFFIX,.cn
