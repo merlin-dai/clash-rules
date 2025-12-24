@@ -135,4 +135,4 @@ payload:
 
 # CN
   - DOMAIN-SUFFIX,gov.cn
-  - DOMAIN-SUFFIX,.cn
+  - DOMAIN-SUFFIX,cn
