@@ -136,3 +136,4 @@ payload:
 # CN
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,cn
+  - IP-CIDR,43.129.255.246/32,no-resolve
