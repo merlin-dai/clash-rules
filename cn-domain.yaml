@@ -1,4 +1,7 @@
 payload:
+# 银行 (Bank)
+  - DOMAIN-SUFFIX,cmbchina.com
+
 # 百度 (Baidu)
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,bdstatic.com
@@ -123,16 +126,13 @@ payload:
   - DOMAIN-SUFFIX,byd.auto
   - DOMAIN-SUFFIX,byd.com
 
-# Foconn
+# Foxconn
   - DOMAIN-SUFFIX,foxconn.com
+  - DOMAIN-SUFFIX,fihmb.com
   - DOMAIN-SUFFIX,akamai.com
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,akamai-access.com
   - DOMAIN-SUFFIX,akamai-zt.com
-  - DOMAIN-SUFFIX,msftauth.net
-  - DOMAIN-SUFFIX,msftauthimages.net
-  - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,gstatic.com
 
 # CN
   - DOMAIN-SUFFIX,cn
