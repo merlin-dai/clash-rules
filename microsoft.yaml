@@ -9,6 +9,7 @@ payload:
 
   # Microsoft 365 / Office
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,onenote.com
@@ -23,6 +24,8 @@ payload:
   - DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-SUFFIX,sts.windows.net
   - DOMAIN-SUFFIX,entra.microsoft.com
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
 
   # Windows 更新与系统
   - DOMAIN-SUFFIX,windowsupdate.com
