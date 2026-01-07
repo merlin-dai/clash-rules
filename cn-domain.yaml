@@ -134,5 +134,8 @@ payload:
   - DOMAIN-SUFFIX,akamai-access.com
   - DOMAIN-SUFFIX,akamai-zt.com
 
+# Zoom
+  - DOMAIN-SUFFIX,zoom.us
+
 # CN
   - DOMAIN-SUFFIX,cn
