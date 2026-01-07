@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.office.net
   - DOMAIN-SUFFIX,msocdn.com
   - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,m.hotmail.com
 
   # 身份与认证 (Azure AD)
   - DOMAIN-SUFFIX,login.microsoftonline.com
