@@ -134,6 +134,10 @@ payload:
   - DOMAIN-SUFFIX,akamai-access.com
   - DOMAIN-SUFFIX,akamai-zt.com
 
+# Huawei
+  - DOMAIN-SUFFIX,huaweicloud.com
+  - DOMIAN-SUFFIX,huawei.com
+
 # Zoom
   - DOMAIN-SUFFIX,zoom.us
 
