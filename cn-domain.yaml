@@ -136,7 +136,7 @@ payload:
 
 # Huawei
   - DOMAIN-SUFFIX,huaweicloud.com
-  - DOMIAN-SUFFIX,huawei.com
+  - DOMAIN-SUFFIX,huawei.com
 
 # Zoom
   - DOMAIN-SUFFIX,zoom.us
