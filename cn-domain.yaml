@@ -1,6 +1,10 @@
 payload:
 # 银行 (Bank)
   - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-SUFFIX,cmbimg.com
+  - DOMAIN-SUFFIX,ecitic.com
+  - DOMAIN-SUFFIX,citicbank.com
+  - DOMAIN-SUFFIX,cfhc.citic
 
 # 百度 (Baidu)
   - DOMAIN-SUFFIX,baidu.com
