@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,weixin.qq.com
+  - DOMAIN-SUFFIX,weixinbridge.com
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,qpic.cn
   - DOMAIN-SUFFIX,gtimg.cn
