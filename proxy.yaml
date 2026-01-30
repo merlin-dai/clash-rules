@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,gist.github.com
   - DOMAIN-SUFFIX,assets.github.com
   - DOMAIN-SUFFIX,camo.githubusercontent.com
+  - DOMAIN-SUFFIX,githubcopilot.com
 
   # Netflix 相关
   - DOMAIN-SUFFIX,netflix.com
