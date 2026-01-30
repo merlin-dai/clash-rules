@@ -3,3 +3,6 @@ payload:
 # Zoom
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,onzoom.com
+  - DOMAIN-SUFFIX,zoom.com
+  - DOMAIN-SUFFIX,zoom.sjv.io
+  - DOMAIN-SUFFIX,zoominfo.com
