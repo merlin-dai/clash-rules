@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,amazonprimevideo.com
   - DOMAIN-SUFFIX,primevideo.com
   - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,amazonwindchill.com
   - DOMAIN-KEYWORD,amazon
 
   # Amazon 核心 IP 段
