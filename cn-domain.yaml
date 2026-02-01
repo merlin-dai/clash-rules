@@ -143,5 +143,8 @@ payload:
   - DOMAIN-SUFFIX,huaweicloud.com
   - DOMAIN-SUFFIX,huawei.com
 
+# 坚果云
+  - DOMAIN-SUFIX,jianguoyun.com
+
 # CN
   - DOMAIN-SUFFIX,cn
