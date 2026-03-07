@@ -146,5 +146,8 @@ payload:
 # 坚果云
   - DOMAIN-SUFFIX,jianguoyun.com
 
+# Altair
+  - DOMAIN-SUFFIX,altair.com
+
 # CN
   - DOMAIN-SUFFIX,cn
