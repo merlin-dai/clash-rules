@@ -149,5 +149,8 @@ payload:
 # Altair
   - DOMAIN-SUFFIX,altair.com
 
+# CSDN
+  - DOMAIN-SUFFIX,csdn.net
+
 # CN
   - DOMAIN-SUFFIX,cn
