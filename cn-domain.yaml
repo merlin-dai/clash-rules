@@ -152,5 +152,8 @@ payload:
 # CSDN
   - DOMAIN-SUFFIX,csdn.net
 
+# Sam
+  - DOMAIN-SUFFIX,myqcloud.com
+
 # CN
   - DOMAIN-SUFFIX,cn
