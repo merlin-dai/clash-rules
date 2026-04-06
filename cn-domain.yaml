@@ -56,6 +56,9 @@ payload:
   - DOMAIN-SUFFIX,1688.com
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,alipayobjects.com
+  - DOMAIN-SUFFIX,alibabachengdun.com
+  - DOMAIN-SUFFIX,globalsign.com
 
 # 京东 (JD.com)
   - DOMAIN-SUFFIX,jd.com
