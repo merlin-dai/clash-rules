@@ -169,6 +169,7 @@ payload:
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,bytescm.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+  - DOMAIN-SUFFIX,fengkongcloud.com
   
 # CN
   - DOMAIN-SUFFIX,cn
