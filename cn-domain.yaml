@@ -70,6 +70,11 @@ payload:
   - DOMAIN-SUFFIX,jdcloud-oss.com
   - DOMAIN-SUFFIX,300hu.com
 
+# 天虹
+  - DOMAIN-SUFFIX,easytomessage.com
+  - DOMAIN-SUFFIX,jpush.io
+  - DOMAIN-SUFFIX,umeng.com
+
 # 哔哩哔哩 (Bilibili)
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,hdslb.com
