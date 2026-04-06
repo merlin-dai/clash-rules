@@ -159,6 +159,10 @@ payload:
 # Other
   - DOMAIN-SUFFIX,wtzw.com
   - DOMAIN-SUFFIX,qm989.com
-
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,volceapplog.com
+  - DOMAIN-SUFFIX,zztfly.com
+  
 # CN
   - DOMAIN-SUFFIX,cn
