@@ -85,6 +85,7 @@ payload:
 
 # 美团 / 大众点评 (Meituan / Dianping)
   - DOMAIN-SUFFIX,meituan.com
+  - DOMAIN-SUFFIX,meituan.net
   - DOMAIN-SUFFIX,dianping.com
   - DOMAIN-SUFFIX,maoyan.com
   - DOMAIN-SUFFIX,ele.me
