@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,jd.hk
   - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN-SUFFIX,jdcloud-oss.com
+  - DOMAIN-SUFFIX,300hu.com
 
 # 哔哩哔哩 (Bilibili)
   - DOMAIN-SUFFIX,bilibili.com
