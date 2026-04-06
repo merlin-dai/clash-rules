@@ -156,5 +156,9 @@ payload:
 # Sam
   - DOMAIN-SUFFIX,myqcloud.com
 
+# Other
+  - DOMAIN-SUFFIX,wtzw.com
+  - DOMAIN-SUFFIX,qm989.com
+
 # CN
   - DOMAIN-SUFFIX,cn
