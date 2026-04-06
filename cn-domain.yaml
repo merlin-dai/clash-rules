@@ -163,6 +163,12 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,volceapplog.com
   - DOMAIN-SUFFIX,zztfly.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,volccdn.com
+  - DOMAIN-SUFFIX,umengcloud.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
   
 # CN
   - DOMAIN-SUFFIX,cn
