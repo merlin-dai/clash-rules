@@ -190,6 +190,8 @@ payload:
 
 # Aqara
   - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,aqara.com
+  - DOMAIN-SUFFIX,aqara.cn
   
   
 # CN
