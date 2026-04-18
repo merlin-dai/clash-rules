@@ -1,69 +1,58 @@
 payload:
-# Apple 基础服务
+  # > Apple API
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,apple.co
   - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,store.apple.com
-  - DOMAIN-SUFFIX,developer.apple.com
-  - DOMAIN-SUFFIX,support.apple.com
-
-# 身份与认证
-  - DOMAIN-SUFFIX,appleid.apple.com
-  - DOMAIN-SUFFIX,configuration.apple.com
-  - DOMAIN-SUFFIX,identity.apple.com
-
-# iCloud 服务
-  - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud.apple.com
-  - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,icloud-static.com
-
-# App Store / iTunes / 媒体
-  - DOMAIN-SUFFIX,itunes.apple.com
-  - DOMAIN-SUFFIX,music.apple.com
-  - DOMAIN-SUFFIX,tv.apple.com
-  - DOMAIN-SUFFIX,podcasts.apple.com
-  - DOMAIN-SUFFIX,mzstatic.com
-
-# 系统更新与安全
-  - DOMAIN-SUFFIX,mesu.apple.com
-  - DOMAIN-SUFFIX,swcdn.apple.com
-  - DOMAIN-SUFFIX,updates.cdn-apple.com
-
-# 推送通知 (APNs)
-  - DOMAIN-SUFFIX,push.apple.com
-  - DOMAIN-SUFFIX,albert.apple.com
-  - DOMAIN-SUFFIX,gs.apple.com
-  - DOMAIN-SUFFIX,humb.apple.com
-  - DOMAIN-SUFFIX,sq-device.apple.com
-  - DOMAIN-SUFFIX,tbsc.apple.com
-
-# 设备注册与管理
-  - DOMAIN-SUFFIX,deviceenrollment.apple.com
-  - DOMAIN-SUFFIX,deviceservices-external.apple.com
-  - DOMAIN-SUFFIX,gdmf.apple.com
-
-# CDN 与分发
-  - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,apple-cloudkit.com
-  - DOMAIN-SUFFIX,apple-dns.net
-
-# FaceTime
-  - DOMAIN-SUFFIX,facetime.apple.com
-  - DOMAIN-SUFFIX,facetime.apple-dns.net
-
-# Siri
-  - DOMAIN-SUFFIX,siri.apple.com
-  - DOMAIN-SUFFIX,siri.apple-dns.net
-  - DOMAIN-SUFFIX,guzzoni.apple.com
-
-# Apple Maps
-  - DOMAIN-SUFFIX,maps.apple.com
-  - DOMAIN-SUFFIX,maps.apple-dns.net
-  - DOMAIN-SUFFIX,ls.apple.com
-
-# 其他常见服务
-  - DOMAIN-SUFFIX,static.ips.apple.com
-  - DOMAIN-SUFFIX,cvws.apple.com
-
-# Apple IP段规则
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,appsto.re
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,itunes.com
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,mzstatic.com
   - IP-CIDR,17.0.0.0/8,no-resolve
+  - IP-CIDR,63.92.224.0/19,no-resolve
+  - IP-CIDR,65.199.22.0/23,no-resolve
+  - IP-CIDR,139.178.128.0/18,no-resolve
+  - IP-CIDR,144.178.0.0/19,no-resolve
+  - IP-CIDR,144.178.36.0/22,no-resolve
+  - IP-CIDR,144.178.48.0/20,no-resolve
+  - IP-CIDR,192.35.50.0/24,no-resolve
+  - IP-CIDR,198.183.17.0/24,no-resolve
+  - IP-CIDR,205.180.175.0/24,no-resolve
+
+  # > Apple News
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com
+  - DOMAIN-SUFFIX,apple.news
+
+  # > Apple Maps
+  - PROCESS-NAME,com.apple.geod
+  
+  # > Apple Music
+  # - USER-AGENT,Music*
+  - PROCESS-NAME,music
+  - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,blobstore.apple.com
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN,aod.itunes.apple.com
+  - DOMAIN,aod-ssl.itunes.apple.com
+  - DOMAIN,audio.itunes.apple.com
+  - DOMAIN,audio-ssl.itunes.apple.com
+  - DOMAIN,mvod.itunes.apple.com
+  - DOMAIN,streamingaudio.itunes.apple.com
+
+  # iCloud Music Library
+  - DOMAIN-SUFFIX,blobstore.apple.com
+  
+  # > Apple TV
+  - DOMAIN,np-edge.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
+  - DOMAIN-SUFFIX,tv.apple.com
+  
+  # > Apple News and Apple Map TOMTOM Version
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  
